@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765816478690",
+    "project_id": "doconline-225cc",
+    "storage_bucket": "doconline-225cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765816478690:android:1575051b635f624af6b7bb",
+        "android_client_info": {
+          "package_name": "com.example.patientdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765816478690-ren2n536hu321rgr4k4j0ll20rcgheee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEBqfP4hXzrmFzj8eHjJvi3pp18FpnerM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765816478690-ren2n536hu321rgr4k4j0ll20rcgheee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
